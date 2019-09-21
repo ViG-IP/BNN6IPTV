@@ -1,0 +1,15 @@
+################################################################
+## LISTA FEITA POR VITÓRIO GOMES. COPIOU, DEIXE OS CRÉDITOS!!!##
+################################################################
+ 
+#EXTM3U
+#EXTINF:0 group-title="Brooklyn Nine-Nine 6º Temporada Episódio 6 ao 10"
+ 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQcHIPwQfm29hbYy9pY78fix70SDmEB8h3YK6HBVUbZwujsM-ZD" group-title="Brooklyn Nine-Nine", Brooklyn Nine-Nine T06E07
+http://cdnfe2.azureedge.net//RCServer06/ondemand/BRKLNNT06EP07.mp4?attachment=1568812291
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQcHIPwQfm29hbYy9pY78fix70SDmEB8h3YK6HBVUbZwujsM-ZD" group-title="Brooklyn Nine-Nine", Brooklyn Nine-Nine T06E08
+http://cdnfe2.azureedge.net//RCServer06/ondemand/BRKLNNT06EP08.mp4?attachment=1568812653
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQcHIPwQfm29hbYy9pY78fix70SDmEB8h3YK6HBVUbZwujsM-ZD" group-title="Brooklyn Nine-Nine", Brooklyn Nine-Nine T06E09
+http://cdnfe2.azureedge.net/RCServer06/ondemand/BRKLNNT06EP09.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQcHIPwQfm29hbYy9pY78fix70SDmEB8h3YK6HBVUbZwujsM-ZD" group-title="Brooklyn Nine-Nine", Brooklyn Nine-Nine T06E10
+http://cdnfe2.azureedge.net//RCServer06/ondemand/BRKLNNT06EP10.mp4?attachment=1568812900
