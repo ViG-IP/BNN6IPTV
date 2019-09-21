@@ -1,0 +1,23 @@
+################################################################
+## LISTA FEITA POR VITÓRIO GOMES. COPIOU, DEIXE OS CRÉDITOS!!!##
+################################################################
+ 
+#EXTM3U
+#EXTINF:0 group-title="Harry Potter"
+ 
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/bonus.png" group-title="Harry Potter", Harry Potter 1 e a Pedra Filosofal
+http://tvol.ink/iptv1/HRYPTR01
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/bonus.png" group-title="Harry Potter", Harry Potter 2 e a Camara Secreta
+http://tvol.ink/iptv1/HRYPTR02
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/bonus.png" group-title="Harry Potter", Harry Potter 3 e o Prisioneiro de Azkaban
+http://tvol.ink/iptv1/HRYPTR03
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/bonus.png" group-title="Harry Potter", Harry Potter 4 e o Calice de Fogo
+http://tvol.ink/iptv1/HRYPTR04
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/bonus.png" group-title="Harry Potter", Harry Potter 5 e a Ordem da Fenix
+http://tvol.ink/iptv1/HRYPTR05
+#EXTINF:-1 tvg-logo="https://lhmtv.tech/logo/bonus.png"group-title="Harry Potter", Harry Potter 6 e o Enigma do Príncipe
+http://tvol.ink/iptv1/HRYPTR06
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/bonus.png" group-title="Harry Potter", Harry Potter 7 Reliquias da Morte: Parte 1
+http://tvol.ink/iptv1/HRYPTR07
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/bonus.png" group-title="Harry Potter", Harry Potter 8 Reliquias da Morte: Parte 2
+http://tvol.ink/iptv1/HRYPTR08
