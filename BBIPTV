@@ -1,0 +1,135 @@
+##################################################################################
+## LISTA FEITA POR VITÓRIO GOMES(COPIADO DO LHMTV). COPIOU, DEIXE OS CRÉDITOS!!!##
+##################################################################################
+ 
+#EXTM3U
+#EXTINF:0 group-title="Breaking Bad Completo"
+ 
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/series/breakingb1.jpg" group-title="Breaking Bad: A Quimica do Mal", 1T-E01
+http://vidar.lhmtv.gq/Series/Breaking.Bad.1/1.Piloto.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/series/breakingb1.jpg" group-title="Breaking Bad: A Quimica do Mal", 1T-E02
+http://vidar.lhmtv.gq/Series/Breaking.Bad.1/2.Ressurreicao.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/series/breakingb1.jpg" group-title="Breaking Bad: A Quimica do Mal", 1T-E03
+http://vidar.lhmtv.gq/Series/Breaking.Bad.1/3.Duvida.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/series/breakingb1.jpg" group-title="Breaking Bad: A Quimica do Mal", 1T-E04
+http://vidar.lhmtv.gq/Series/Breaking.Bad.1/4.Homem.com.Cancer.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/series/breakingb1.jpg" group-title="Breaking Bad: A Quimica do Mal", 1T-E05
+http://vidar.lhmtv.gq/Series/Breaking.Bad.1/5.Materia.Cinzenta.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/series/breakingb1.jpg" group-title="Breaking Bad: A Quimica do Mal", 1T-E06
+http://vidar.lhmtv.gq/Series/Breaking.Bad.1/6.O.Grande.Blefe.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/series/breakingb1.jpg" group-title="Breaking Bad: A Quimica do Mal", 1T-E07
+http://vidar.lhmtv.gq/Series/Breaking.Bad.1/7.Um.Trato.Sem.Dificuldades.mp4?LHMTv
+ 
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/series/breakingb2.jpg" group-title="Breaking Bad: A Quimica do Mal", 2T-E01
+http://vidar.lhmtv.gq/Series/Breaking.Bad.2/1.Seven.Thirty.Seven.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/series/breakingb2.jpg" group-title="Breaking Bad: A Quimica do Mal", 2T-E02
+http://vidar.lhmtv.gq/Series/Breaking.Bad.2/2.Grilled.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/series/breakingb2.jpg" group-title="Breaking Bad: A Quimica do Mal", 2T-E03
+http://vidar.lhmtv.gq/Series/Breaking.Bad.2/3.Bit.by.a.Dead.Bee.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/series/breakingb2.jpg" group-title="Breaking Bad: A Quimica do Mal", 2T-E04
+http://vidar.lhmtv.gq/Series/Breaking.Bad.2/4.Down.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/series/breakingb2.jpg" group-title="Breaking Bad: A Quimica do Mal", 2T-E05
+http://vidar.lhmtv.gq/Series/Breaking.Bad.2/5.Breakage.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/series/breakingb2.jpg" group-title="Breaking Bad: A Quimica do Mal", 2T-E06
+http://vidar.lhmtv.gq/Series/Breaking.Bad.2/6.Peekaboo.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/series/breakingb2.jpg" group-title="Breaking Bad: A Quimica do Mal", 2T-E07
+http://vidar.lhmtv.gq/Series/Breaking.Bad.2/7.Negro.y.Azul.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/series/breakingb2.jpg" group-title="Breaking Bad: A Quimica do Mal", 2T-E08
+http://vidar.lhmtv.gq/Series/Breaking.Bad.2/8.Better.Call.Saul.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/series/breakingb2.jpg" group-title="Breaking Bad: A Quimica do Mal", 2T-E09
+http://vidar.lhmtv.gq/Series/Breaking.Bad.2/9.4.Days.Out.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/series/breakingb2.jpg" group-title="Breaking Bad: A Quimica do Mal", 2T-E10
+http://vidar.lhmtv.gq/Series/Breaking.Bad.2/10.Over.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/series/breakingb2.jpg" group-title="Breaking Bad: A Quimica do Mal", 2T-E11
+http://vidar.lhmtv.gq/Series/Breaking.Bad.2/11.Mandala.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/series/breakingb2.jpg" group-title="Breaking Bad: A Quimica do Mal", 2T-E12
+http://vidar.lhmtv.gq/Series/Breaking.Bad.2/12.Phoenix.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/series/breakingb2.jpg" group-title="Breaking Bad: A Quimica do Mal", 2T-E13
+http://vidar.lhmtv.gq/Series/Breaking.Bad.2/13.ABQ.mp4?LHMTv
+ 
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/series/breakingb3.jpg" group-title="Breaking Bad: A Quimica do Mal", 3T-E01
+http://vidar.lhmtv.gq/Series/Breaking.Bad.3/1.No.Mas.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/series/breakingb3.jpg" group-title="Breaking Bad: A Quimica do Mal", 3T-E02
+http://vidar.lhmtv.gq/Series/Breaking.Bad.3/2.Caballo.sin.Nombre.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/series/breakingb3.jpg" group-title="Breaking Bad: A Quimica do Mal", 3T-E03
+http://vidar.lhmtv.gq/Series/Breaking.Bad.3/3.I.F.T..mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/series/breakingb3.jpg" group-title="Breaking Bad: A Quimica do Mal", 3T-E04
+http://vidar.lhmtv.gq/Series/Breaking.Bad.3/4.Green.Light.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/series/breakingb3.jpg" group-title="Breaking Bad: A Quimica do Mal", 3T-E05
+http://vidar.lhmtv.gq/Series/Breaking.Bad.3/5.Mas.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/series/breakingb3.jpg" group-title="Breaking Bad: A Quimica do Mal", 3T-E06
+http://vidar.lhmtv.gq/Series/Breaking.Bad.3/6.Sunset.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/series/breakingb3.jpg" group-title="Breaking Bad: A Quimica do Mal", 3T-E07
+http://vidar.lhmtv.gq/Series/Breaking.Bad.3/7.One.Minute.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/series/breakingb3.jpg" group-title="Breaking Bad: A Quimica do Mal", 3T-E08
+http://vidar.lhmtv.gq/Series/Breaking.Bad.3/8.I.See.You.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/series/breakingb3.jpg" group-title="Breaking Bad: A Quimica do Mal", 3T-E09
+http://vidar.lhmtv.gq/Series/Breaking.Bad.3/9.Kafkaesque.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/series/breakingb3.jpg" group-title="Breaking Bad: A Quimica do Mal", 3T-E10
+http://vidar.lhmtv.gq/Series/Breaking.Bad.3/10.Fly.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/series/breakingb3.jpg" group-title="Breaking Bad: A Quimica do Mal", 3T-E11
+http://vidar.lhmtv.gq/Series/Breaking.Bad.3/11.Abiquiu.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/series/breakingb3.jpg" group-title="Breaking Bad: A Quimica do Mal", 3T-E12
+http://vidar.lhmtv.gq/Series/Breaking.Bad.3/12.Half.Measures.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/series/breakingb3.jpg" group-title="Breaking Bad: A Quimica do Mal", 3T-E13
+http://vidar.lhmtv.gq/Series/Breaking.Bad.3/13.Full.Measure.mp4?LHMTv
+ 
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/series/breakingb4.jpg" group-title="Breaking Bad: A Quimica do Mal", 4T-E01
+http://vidar.lhmtv.gq/Series/Breaking.Bad.4/1.Box.Cutter.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/series/breakingb4.jpg" group-title="Breaking Bad: A Quimica do Mal", 4T-E02
+http://vidar.lhmtv.gq/Series/Breaking.Bad.4/2.Thirty.Eight.Snub.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/series/breakingb4.jpg" group-title="Breaking Bad: A Quimica do Mal", 4T-E03
+http://vidar.lhmtv.gq/Series/Breaking.Bad.4/3.Open.House.mp
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/series/breakingb4.jpg" group-title="Breaking Bad: A Quimica do Mal", 4T-E04
+http://vidar.lhmtv.gq/Series/Breaking.Bad.4/4.Bullet.Points.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/series/breakingb4.jpg" group-title="Breaking Bad: A Quimica do Mal", 4T-E05
+http://vidar.lhmtv.gq/Series/Breaking.Bad.4/5.Shotgun.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/series/breakingb4.jpg" group-title="Breaking Bad: A Quimica do Mal", 4T-E06
+http://vidar.lhmtv.gq/Series/Breaking.Bad.4/6.Cornered.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/series/breakingb4.jpg" group-title="Breaking Bad: A Quimica do Mal", 4T-E07
+http://vidar.lhmtv.gq/Series/Breaking.Bad.4/7.Problem.Dog.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/series/breakingb4.jpg" group-title="Breaking Bad: A Quimica do Mal", 4T-E08
+http://vidar.lhmtv.gq/Series/Breaking.Bad.4/8.Hermanos.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/series/breakingb4.jpg" group-title="Breaking Bad: A Quimica do Mal", 4T-E09
+http://vidar.lhmtv.gq/Series/Breaking.Bad.4/9.Bug.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/series/breakingb4.jpg" group-title="Breaking Bad: A Quimica do Mal", 4T-E10
+http://vidar.lhmtv.gq/Series/Breaking.Bad.4/10.Salud.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/series/breakingb4.jpg" group-title="Breaking Bad: A Quimica do Mal", 4T-E11
+http://vidar.lhmtv.gq/Series/Breaking.Bad.4/11.Crawl.Space.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/series/breakingb4.jpg" group-title="Breaking Bad: A Quimica do Mal", 4T-E12
+http://vidar.lhmtv.gq/Series/Breaking.Bad.4/12.End.Times.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/series/breakingb4.jpg" group-title="Breaking Bad: A Quimica do Mal", 4T-E13
+http://vidar.lhmtv.gq/Series/Breaking.Bad.4/13.Face.Off.mp4?LHMTv
+ 
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/series/breakingb5.jpg" group-title="Breaking Bad: A Quimica do Mal", 5T-E01
+http://vidar.lhmtv.gq/Series/Breaking.Bad.5/1.Live.Free.or.Die.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/series/breakingb5.jpg" group-title="Breaking Bad: A Quimica do Mal", 5T-E02
+http://vidar.lhmtv.gq/Series/Breaking.Bad.5/2.Madrigal.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/series/breakingb5.jpg" group-title="Breaking Bad: A Quimica do Mal", 5T-E03
+http://vidar.lhmtv.gq/Series/Breaking.Bad.5/3.Hazard.Pay.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/series/breakingb5.jpg" group-title="Breaking Bad: A Quimica do Mal", 5T-E04
+http://vidar.lhmtv.gq/Series/Breaking.Bad.5/4.Fifty.One.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/series/breakingb5.jpg" group-title="Breaking Bad: A Quimica do Mal", 5T-E05
+http://vidar.lhmtv.gq/Series/Breaking.Bad.5/5.Dead.Freight.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/series/breakingb5.jpg" group-title="Breaking Bad: A Quimica do Mal", 5T-E06
+http://vidar.lhmtv.gq/Series/Breaking.Bad.5/6.Buyout.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/series/breakingb5.jpg" group-title="Breaking Bad: A Quimica do Mal", 5T-E07
+http://vidar.lhmtv.gq/Series/Breaking.Bad.5/7.Say.My.Name.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/series/breakingb5.jpg" group-title="Breaking Bad: A Quimica do Mal", 5T-E08
+http://vidar.lhmtv.gq/Series/Breaking.Bad.5/8.Gliding.Over.All.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/series/breakingb5.jpg" group-title="Breaking Bad: A Quimica do Mal", 5T-E09
+http://vidar.lhmtv.gq/Series/Breaking.Bad.5/9.Blood.Money.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/series/breakingb5.jpg" group-title="Breaking Bad: A Quimica do Mal", 5T-E10
+http://vidar.lhmtv.gq/Series/Breaking.Bad.5/10.Buried.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/series/breakingb5.jpg" group-title="Breaking Bad: A Quimica do Mal", 5T-E11
+http://vidar.lhmtv.gq/Series/Breaking.Bad.5/11.Confessions.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/series/breakingb5.jpg" group-title="Breaking Bad: A Quimica do Mal", 5T-E12
+http://vidar.lhmtv.gq/Series/Breaking.Bad.5/12.Rabid.Dog.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/series/breakingb5.jpg" group-title="Breaking Bad: A Quimica do Mal", 5T-E13
+http://vidar.lhmtv.gq/Series/Breaking.Bad.5/13.To.hajiilee.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/series/breakingb5.jpg" group-title="Breaking Bad: A Quimica do Mal", 5T-E14
+http://vidar.lhmtv.gq/Series/Breaking.Bad.5/14.Ozymandias.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/series/breakingb5.jpg" group-title="Breaking Bad: A Quimica do Mal", 5T-E15
+http://vidar.lhmtv.gq/Series/Breaking.Bad.5/15.Granite.State.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/series/breakingb5.jpg" group-title="Breaking Bad: A Quimica do Mal", 5T-E16
+http://vidar.lhmtv.gq/Series/Breaking.Bad.5/16.Felina.Season.Finale.mp4?LHMTv
