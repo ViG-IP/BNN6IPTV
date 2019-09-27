@@ -1,0 +1,8 @@
+########################################################### #####
+## LISTA FEITA POR VITÓRIO GOMES. COPIOU, DEIXE OS CRÉDITOS !!!##
+########################################################### #####
+
+#EXTM3U 
+#EXTINF: 0 group-title = "Filmes" 
+#EXTINF: -1 tvg-logo = https://www.almanaquedacultura.com.br/wp-content/uploads/2019/05/Annabelle-3-Divulgacao.jpg" group-title = Annabelle 3
+http://mrq1.azureedge.net/movies/annabelle3-dub-720p.mp4
