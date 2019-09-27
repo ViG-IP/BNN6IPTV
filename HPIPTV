@@ -21,3 +21,7 @@ http://cdnfe3.azureedge.net/RCFServer1/ondemand/HRYPTR06.mp4?attachment=true
 http://cdnfe3.azureedge.net/RCFServer1/ondemand/HRYPTR07.mp4?attachment=true
 #EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/bonus.png" group-title="Harry Potter", Harry Potter 8 Reliquias da Morte: Parte 2
 http://cdnfe3.azureedge.net/RCFServer1/ondemand/HRYPTR08.mp4?attachment=true
+
+#EXTINF: 0 group-title = "Filmes" 
+#EXTINF: -1 tvg-logo = https://www.almanaquedacultura.com.br/wp-content/uploads/2019/05/Annabelle-3-Divulgacao.jpg "group-title = Annabelle 3
+http://mrq1.azureedge.net/movies/annabelle3-dub-720p.mp4
